@@ -7,8 +7,8 @@ body {
   min-height: 95vh;
 }
 .main {
-  flex: 1;
-}
+  flex: 2;
+}  
 
 h1 {
   font-size: 5rem;
@@ -25,7 +25,8 @@ footer {
   margin-right: 50px;
 }
 
-.card {
+.card { 
+
   width: 45%;
 }
 
@@ -35,6 +36,7 @@ footer {
 
 .right {
   float: right;
+  
 }
 
 .creative {
